@@ -1,12 +1,16 @@
-<!-- Your styles -->
+<link rel="stylesheet" type="text/css" href={"stylesheets/bootstrap.min.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/font-awesome.min.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/reality-icon.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/bootsnav.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/cubeportfolio.min.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/jquery.fancybox.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/owl.carousel.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/owl.transitions.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/settings.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/style.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/range-Slider.min.css"|ezdesign}>
+<link rel="stylesheet" type="text/css" href={"stylesheets/search.css"|ezdesign}>
+<link rel="icon" href={"icon.png"|ezimage}>
+
+<!-- AlfamediaWEB styles -->
 <link rel="stylesheet" type="text/css" href={ezini('StylesheetSettings','SiteCSS','design.ini')|ezroot()} />
-
-<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-<!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-
-<!-- styles for IE -->
-<!--[if lte IE 8]>
-<link rel="stylesheet" href={ezini('StylesheetSettings','Ie8CSS','design.ini')|ezroot()}type="text/css" media="screen" />
-<![endif]-->
